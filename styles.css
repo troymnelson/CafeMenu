@@ -12,3 +12,15 @@ body {
     margin-right: auto;
     background-color: burlywood;
 }
+
+.item p {
+    display: inline-block;
+}
+
+.flavor {
+    text-align: left;
+}
+
+.price {
+    text-align: right;
+}
